@@ -1,3 +1,6 @@
+_the project was developed in March 2025_
+
+
 # Real Estate Price Prediction
 
 This project predicts real estate prices in Poland by combining **web-scraped** listings (Otodom) with **external** and **synthetic** datasets such as unemployment, inflation, salaries, and population statistics. It includes scraping notebooks, geocoding, preprocessing, optional synthetic data generation, and end-to-end modeling with a final report.
