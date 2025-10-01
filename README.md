@@ -63,10 +63,10 @@ Merged datasets form `data/data_final.csv`. Example sources: GUS, World Bank, NB
 
 ---
 
-## Report
+## Raport
 
 See the full analysis and visualizations in:
-- `report_rep_project.html`
+- `raport_rep_project.html`
 
 ---
 
